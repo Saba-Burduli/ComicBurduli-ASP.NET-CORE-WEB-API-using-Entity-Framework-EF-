@@ -1,0 +1,529 @@
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/appsettings.json
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/SalesManagementSystem.API.staticwebassets.endpoints.json
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/SalesManagementSystem.API.exe
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/SalesManagementSystem.API.deps.json
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/SalesManagementSystem.API.runtimeconfig.json
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/SalesManagementSystem.API.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/SalesManagementSystem.API.pdb
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/obj/Debug/net8.0/SalesManagementSystem.API.csproj.AssemblyReference.cache
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/obj/Debug/net8.0/SalesManagementSystem.API.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/obj/Debug/net8.0/SalesManagementSystem.API.AssemblyInfoInputs.cache
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/obj/Debug/net8.0/SalesManagementSystem.API.AssemblyInfo.cs
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/obj/Debug/net8.0/SalesManagementSystem.API.csproj.CoreCompileInputs.cache
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/obj/Debug/net8.0/SalesManagementSystem.API.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/obj/Debug/net8.0/SalesManagementSystem.API.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/obj/Debug/net8.0/scopedcss/bundle/SalesManagementSystem.API.styles.css
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/obj/Debug/net8.0/staticwebassets/msbuild.SalesManagementSystem.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/obj/Debug/net8.0/staticwebassets/msbuild.SalesManagementSystem.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/obj/Debug/net8.0/staticwebassets/msbuild.build.SalesManagementSystem.API.props
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.SalesManagementSystem.API.props
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.SalesManagementSystem.API.props
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/obj/Debug/net8.0/staticwebassets.upToDateCheck.txt
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/obj/Debug/net8.0/SalesMan.9D290E52.Up2Date
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/obj/Debug/net8.0/SalesManagementSystem.API.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/obj/Debug/net8.0/refint/SalesManagementSystem.API.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/obj/Debug/net8.0/SalesManagementSystem.API.pdb
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/obj/Debug/net8.0/SalesManagementSystem.API.genruntimeconfig.cache
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/obj/Debug/net8.0/ref/SalesManagementSystem.API.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Azure.Core.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Azure.Identity.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Humanizer.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.Build.Locator.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Mono.TextTemplating.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.ClientModel.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.CodeDom.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.Composition.Convention.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.Composition.Hosting.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.Composition.Runtime.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.Composition.TypedParts.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.Formats.Asn1.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.IO.Pipelines.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.Memory.Data.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.Runtime.Caching.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.Security.Permissions.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.Text.Json.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.Windows.Extensions.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/SalesManagementSystem.DAL.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/SalesManagementSystem.DATA.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/SalesManagementSystem.SERVICE.dll
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/SalesManagementSystem.SERVICE.pdb
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/SalesManagementSystem.DAL.pdb
+C:/Users/User/Desktop/WebAPIProject/WebAPIProject/bin/Debug/net8.0/SalesManagementSystem.DATA.pdb
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/appsettings.json
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/SalesManagementSystem.API.exe
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/SalesManagementSystem.API.deps.json
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/SalesManagementSystem.API.runtimeconfig.json
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/SalesManagementSystem.API.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/SalesManagementSystem.API.pdb
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Azure.Core.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Azure.Identity.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Humanizer.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.Build.Locator.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Mono.TextTemplating.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.ClientModel.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.CodeDom.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.Composition.Convention.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.Composition.Hosting.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.Composition.Runtime.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.Composition.TypedParts.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.Drawing.Common.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.Formats.Asn1.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.IO.Pipelines.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.Memory.Data.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.Runtime.Caching.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.Security.Permissions.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.Text.Json.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.Windows.Extensions.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/SalesManagementSystem.DAL.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/SalesManagementSystem.DATA.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/SalesManagementSystem.SERVICE.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/SalesManagementSystem.SERVICE.pdb
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/SalesManagementSystem.DAL.pdb
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/bin/Debug/net8.0/SalesManagementSystem.DATA.pdb
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/obj/Debug/net8.0/SalesManagementSystem.API.csproj.AssemblyReference.cache
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/obj/Debug/net8.0/SalesManagementSystem.API.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/obj/Debug/net8.0/SalesManagementSystem.API.AssemblyInfoInputs.cache
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/obj/Debug/net8.0/SalesManagementSystem.API.AssemblyInfo.cs
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/obj/Debug/net8.0/SalesManagementSystem.API.csproj.CoreCompileInputs.cache
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/obj/Debug/net8.0/SalesManagementSystem.API.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/obj/Debug/net8.0/SalesManagementSystem.API.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/obj/Debug/net8.0/staticwebassets/msbuild.SalesManagementSystem.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/obj/Debug/net8.0/staticwebassets/msbuild.build.SalesManagementSystem.API.props
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.SalesManagementSystem.API.props
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.SalesManagementSystem.API.props
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/obj/Debug/net8.0/scopedcss/bundle/SalesManagementSystem.API.styles.css
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/obj/Debug/net8.0/SalesMan.9D290E52.Up2Date
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/obj/Debug/net8.0/SalesManagementSystem.API.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/obj/Debug/net8.0/refint/SalesManagementSystem.API.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/obj/Debug/net8.0/SalesManagementSystem.API.pdb
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/obj/Debug/net8.0/SalesManagementSystem.API.genruntimeconfig.cache
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/WebAPIProject/obj/Debug/net8.0/ref/SalesManagementSystem.API.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/appsettings.Development.json
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/appsettings.json
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/SalesManagementSystem.API.staticwebassets.endpoints.json
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/SalesManagementSystem.API
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/SalesManagementSystem.API.deps.json
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/SalesManagementSystem.API.runtimeconfig.json
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/SalesManagementSystem.API.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/SalesManagementSystem.API.pdb
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/Azure.Core.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/Azure.Identity.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/Humanizer.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.Build.Locator.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.ClientModel.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.CodeDom.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.Formats.Asn1.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.IO.Pipelines.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.Text.Json.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/SalesManagementSystem.DAL.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/SalesManagementSystem.DATA.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/SalesManagementSystem.SERVICE.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/SalesManagementSystem.SERVICE.pdb
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/SalesManagementSystem.DAL.pdb
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/bin/Debug/net8.0/SalesManagementSystem.DATA.pdb
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/obj/Debug/net8.0/SalesManagementSystem.API.csproj.AssemblyReference.cache
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/obj/Debug/net8.0/SalesManagementSystem.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/obj/Debug/net8.0/SalesManagementSystem.API.AssemblyInfoInputs.cache
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/obj/Debug/net8.0/SalesManagementSystem.API.AssemblyInfo.cs
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/obj/Debug/net8.0/SalesManagementSystem.API.csproj.CoreCompileInputs.cache
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/obj/Debug/net8.0/SalesManagementSystem.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/obj/Debug/net8.0/SalesManagementSystem.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/obj/Debug/net8.0/scopedcss/bundle/SalesManagementSystem.API.styles.css
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/obj/Debug/net8.0/staticwebassets.build.json
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/obj/Debug/net8.0/staticwebassets.development.json
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/obj/Debug/net8.0/staticwebassets/msbuild.SalesManagementSystem.API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/obj/Debug/net8.0/staticwebassets/msbuild.SalesManagementSystem.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/obj/Debug/net8.0/staticwebassets/msbuild.build.SalesManagementSystem.API.props
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.SalesManagementSystem.API.props
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.SalesManagementSystem.API.props
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/obj/Debug/net8.0/SalesMan.9D290E52.Up2Date
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/obj/Debug/net8.0/SalesManagementSystem.API.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/obj/Debug/net8.0/refint/SalesManagementSystem.API.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/obj/Debug/net8.0/SalesManagementSystem.API.pdb
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/obj/Debug/net8.0/SalesManagementSystem.API.genruntimeconfig.cache
+/Users/gstore/Desktop/Updated _ WebAPIProject/WebAPIProject/obj/Debug/net8.0/ref/SalesManagementSystem.API.dll

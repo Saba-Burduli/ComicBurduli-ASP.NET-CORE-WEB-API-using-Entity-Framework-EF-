@@ -1,0 +1,42 @@
+C:/Users/User/Desktop/WebAPIProject/Enitity/bin/Debug/net8.0/SalesManagementSystem.DATA.deps.json
+C:/Users/User/Desktop/WebAPIProject/Enitity/bin/Debug/net8.0/SalesManagementSystem.DATA.runtimeconfig.json
+C:/Users/User/Desktop/WebAPIProject/Enitity/bin/Debug/net8.0/SalesManagementSystem.DATA.dll
+C:/Users/User/Desktop/WebAPIProject/Enitity/bin/Debug/net8.0/SalesManagementSystem.DATA.pdb
+C:/Users/User/Desktop/WebAPIProject/Enitity/obj/Debug/net8.0/SalesManagementSystem.DATA.csproj.AssemblyReference.cache
+C:/Users/User/Desktop/WebAPIProject/Enitity/obj/Debug/net8.0/SalesManagementSystem.DATA.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/Desktop/WebAPIProject/Enitity/obj/Debug/net8.0/SalesManagementSystem.DATA.AssemblyInfoInputs.cache
+C:/Users/User/Desktop/WebAPIProject/Enitity/obj/Debug/net8.0/SalesManagementSystem.DATA.AssemblyInfo.cs
+C:/Users/User/Desktop/WebAPIProject/Enitity/obj/Debug/net8.0/SalesManagementSystem.DATA.csproj.CoreCompileInputs.cache
+C:/Users/User/Desktop/WebAPIProject/Enitity/obj/Debug/net8.0/SalesManagementSystem.DATA.dll
+C:/Users/User/Desktop/WebAPIProject/Enitity/obj/Debug/net8.0/refint/SalesManagementSystem.DATA.dll
+C:/Users/User/Desktop/WebAPIProject/Enitity/obj/Debug/net8.0/SalesManagementSystem.DATA.pdb
+C:/Users/User/Desktop/WebAPIProject/Enitity/obj/Debug/net8.0/SalesManagementSystem.DATA.genruntimeconfig.cache
+C:/Users/User/Desktop/WebAPIProject/Enitity/obj/Debug/net8.0/ref/SalesManagementSystem.DATA.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/Enitity/bin/Debug/net8.0/SalesManagementSystem.DATA.deps.json
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/Enitity/bin/Debug/net8.0/SalesManagementSystem.DATA.runtimeconfig.json
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/Enitity/bin/Debug/net8.0/SalesManagementSystem.DATA.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/Enitity/bin/Debug/net8.0/SalesManagementSystem.DATA.pdb
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/Enitity/obj/Debug/net8.0/SalesManagementSystem.DATA.csproj.AssemblyReference.cache
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/Enitity/obj/Debug/net8.0/SalesManagementSystem.DATA.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/Enitity/obj/Debug/net8.0/SalesManagementSystem.DATA.AssemblyInfoInputs.cache
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/Enitity/obj/Debug/net8.0/SalesManagementSystem.DATA.AssemblyInfo.cs
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/Enitity/obj/Debug/net8.0/SalesManagementSystem.DATA.csproj.CoreCompileInputs.cache
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/Enitity/obj/Debug/net8.0/SalesManagementSystem.DATA.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/Enitity/obj/Debug/net8.0/refint/SalesManagementSystem.DATA.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/Enitity/obj/Debug/net8.0/SalesManagementSystem.DATA.pdb
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/Enitity/obj/Debug/net8.0/SalesManagementSystem.DATA.genruntimeconfig.cache
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/Enitity/obj/Debug/net8.0/ref/SalesManagementSystem.DATA.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/Enitity/bin/Debug/net8.0/SalesManagementSystem.DATA.deps.json
+/Users/gstore/Desktop/Updated _ WebAPIProject/Enitity/bin/Debug/net8.0/SalesManagementSystem.DATA.runtimeconfig.json
+/Users/gstore/Desktop/Updated _ WebAPIProject/Enitity/bin/Debug/net8.0/SalesManagementSystem.DATA.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/Enitity/bin/Debug/net8.0/SalesManagementSystem.DATA.pdb
+/Users/gstore/Desktop/Updated _ WebAPIProject/Enitity/obj/Debug/net8.0/SalesManagementSystem.DATA.csproj.AssemblyReference.cache
+/Users/gstore/Desktop/Updated _ WebAPIProject/Enitity/obj/Debug/net8.0/SalesManagementSystem.DATA.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gstore/Desktop/Updated _ WebAPIProject/Enitity/obj/Debug/net8.0/SalesManagementSystem.DATA.AssemblyInfoInputs.cache
+/Users/gstore/Desktop/Updated _ WebAPIProject/Enitity/obj/Debug/net8.0/SalesManagementSystem.DATA.AssemblyInfo.cs
+/Users/gstore/Desktop/Updated _ WebAPIProject/Enitity/obj/Debug/net8.0/SalesManagementSystem.DATA.csproj.CoreCompileInputs.cache
+/Users/gstore/Desktop/Updated _ WebAPIProject/Enitity/obj/Debug/net8.0/SalesManagementSystem.DATA.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/Enitity/obj/Debug/net8.0/refint/SalesManagementSystem.DATA.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/Enitity/obj/Debug/net8.0/SalesManagementSystem.DATA.pdb
+/Users/gstore/Desktop/Updated _ WebAPIProject/Enitity/obj/Debug/net8.0/SalesManagementSystem.DATA.genruntimeconfig.cache
+/Users/gstore/Desktop/Updated _ WebAPIProject/Enitity/obj/Debug/net8.0/ref/SalesManagementSystem.DATA.dll

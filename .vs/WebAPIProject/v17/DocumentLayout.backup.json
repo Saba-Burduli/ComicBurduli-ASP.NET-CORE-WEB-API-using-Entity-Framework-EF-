@@ -1,0 +1,740 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\WebAPIProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|c:\\users\\user\\desktop\\webapiproject\\enitity\\salesmanagmentsystemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|solutionrelative:enitity\\salesmanagmentsystemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|c:\\users\\user\\desktop\\webapiproject\\enitity\\entites\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|solutionrelative:enitity\\entites\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|c:\\users\\user\\desktop\\webapiproject\\enitity\\entites\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|solutionrelative:enitity\\entites\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|c:\\users\\user\\desktop\\webapiproject\\enitity\\configurations\\orderstatusconfiguartion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|solutionrelative:enitity\\configurations\\orderstatusconfiguartion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|c:\\users\\user\\desktop\\webapiproject\\enitity\\configurations\\orderitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|solutionrelative:enitity\\configurations\\orderitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|c:\\users\\user\\desktop\\webapiproject\\enitity\\entites\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|solutionrelative:enitity\\entites\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|c:\\users\\user\\desktop\\webapiproject\\enitity\\entites\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|solutionrelative:enitity\\entites\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|c:\\users\\user\\desktop\\webapiproject\\enitity\\entites\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|solutionrelative:enitity\\entites\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|c:\\users\\user\\desktop\\webapiproject\\enitity\\entites\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|solutionrelative:enitity\\entites\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|c:\\users\\user\\desktop\\webapiproject\\enitity\\configurations\\productconfiguation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|solutionrelative:enitity\\configurations\\productconfiguation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826E5A8E-3588-47A8-8105-E2EE14BA75D9}|Service\\SalesManagementSystem.SERVICE.csproj|c:\\users\\user\\desktop\\webapiproject\\service\\ratingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826E5A8E-3588-47A8-8105-E2EE14BA75D9}|Service\\SalesManagementSystem.SERVICE.csproj|solutionrelative:service\\ratingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826E5A8E-3588-47A8-8105-E2EE14BA75D9}|Service\\SalesManagementSystem.SERVICE.csproj|c:\\users\\user\\desktop\\webapiproject\\service\\salesmanagementsystem.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{826E5A8E-3588-47A8-8105-E2EE14BA75D9}|Service\\SalesManagementSystem.SERVICE.csproj|solutionrelative:service\\salesmanagementsystem.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9038EA-9F02-439B-BCCB-553834F82B88}|WebAPIProject\\SalesManagementSystem.API.csproj|c:\\users\\user\\desktop\\webapiproject\\webapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9038EA-9F02-439B-BCCB-553834F82B88}|WebAPIProject\\SalesManagementSystem.API.csproj|solutionrelative:webapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|c:\\users\\user\\desktop\\webapiproject\\enitity\\salesmanagementsystem.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|solutionrelative:enitity\\salesmanagementsystem.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D23E2C7-6A60-4D0E-88C1-5A0977DAF990}|Database\\SalesManagementSystem.DAL.csproj|c:\\users\\user\\desktop\\webapiproject\\database\\repositories\\iratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D23E2C7-6A60-4D0E-88C1-5A0977DAF990}|Database\\SalesManagementSystem.DAL.csproj|solutionrelative:database\\repositories\\iratingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9038EA-9F02-439B-BCCB-553834F82B88}|WebAPIProject\\SalesManagementSystem.API.csproj|c:\\users\\user\\desktop\\webapiproject\\webapiproject\\controllers\\ratingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9038EA-9F02-439B-BCCB-553834F82B88}|WebAPIProject\\SalesManagementSystem.API.csproj|solutionrelative:webapiproject\\controllers\\ratingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9038EA-9F02-439B-BCCB-553834F82B88}|WebAPIProject\\SalesManagementSystem.API.csproj|c:\\users\\user\\desktop\\webapiproject\\webapiproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC9038EA-9F02-439B-BCCB-553834F82B88}|WebAPIProject\\SalesManagementSystem.API.csproj|solutionrelative:webapiproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9038EA-9F02-439B-BCCB-553834F82B88}|WebAPIProject\\SalesManagementSystem.API.csproj|c:\\users\\user\\desktop\\webapiproject\\webapiproject\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9038EA-9F02-439B-BCCB-553834F82B88}|WebAPIProject\\SalesManagementSystem.API.csproj|solutionrelative:webapiproject\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D23E2C7-6A60-4D0E-88C1-5A0977DAF990}|Database\\SalesManagementSystem.DAL.csproj|c:\\users\\user\\desktop\\webapiproject\\database\\salesmanagementsystem.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4D23E2C7-6A60-4D0E-88C1-5A0977DAF990}|Database\\SalesManagementSystem.DAL.csproj|solutionrelative:database\\salesmanagementsystem.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|c:\\users\\user\\desktop\\webapiproject\\enitity\\infastructures\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|solutionrelative:enitity\\infastructures\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|c:\\users\\user\\desktop\\webapiproject\\enitity\\infastructures\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|solutionrelative:enitity\\infastructures\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826E5A8E-3588-47A8-8105-E2EE14BA75D9}|Service\\SalesManagementSystem.SERVICE.csproj|c:\\users\\user\\desktop\\webapiproject\\service\\dtos\\createratingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826E5A8E-3588-47A8-8105-E2EE14BA75D9}|Service\\SalesManagementSystem.SERVICE.csproj|solutionrelative:service\\dtos\\createratingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826E5A8E-3588-47A8-8105-E2EE14BA75D9}|Service\\SalesManagementSystem.SERVICE.csproj|c:\\users\\user\\desktop\\webapiproject\\service\\interfaces\\iratingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826E5A8E-3588-47A8-8105-E2EE14BA75D9}|Service\\SalesManagementSystem.SERVICE.csproj|solutionrelative:service\\interfaces\\iratingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826E5A8E-3588-47A8-8105-E2EE14BA75D9}|Service\\SalesManagementSystem.SERVICE.csproj|c:\\users\\user\\desktop\\webapiproject\\service\\dtos\\updateratingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826E5A8E-3588-47A8-8105-E2EE14BA75D9}|Service\\SalesManagementSystem.SERVICE.csproj|solutionrelative:service\\dtos\\updateratingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9038EA-9F02-439B-BCCB-553834F82B88}|WebAPIProject\\SalesManagementSystem.API.csproj|c:\\users\\user\\desktop\\webapiproject\\webapiproject\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9038EA-9F02-439B-BCCB-553834F82B88}|WebAPIProject\\SalesManagementSystem.API.csproj|solutionrelative:webapiproject\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9038EA-9F02-439B-BCCB-553834F82B88}|WebAPIProject\\SalesManagementSystem.API.csproj|c:\\users\\user\\desktop\\webapiproject\\webapiproject\\webapiproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{EC9038EA-9F02-439B-BCCB-553834F82B88}|WebAPIProject\\SalesManagementSystem.API.csproj|solutionrelative:webapiproject\\webapiproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9038EA-9F02-439B-BCCB-553834F82B88}|WebAPIProject\\SalesManagementSystem.API.csproj|c:\\users\\user\\desktop\\webapiproject\\webapiproject\\salesmanagementsystem.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EC9038EA-9F02-439B-BCCB-553834F82B88}|WebAPIProject\\SalesManagementSystem.API.csproj|solutionrelative:webapiproject\\salesmanagementsystem.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|c:\\users\\user\\desktop\\webapiproject\\enitity\\configurations\\ratingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|solutionrelative:enitity\\configurations\\ratingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|c:\\users\\user\\desktop\\webapiproject\\enitity\\configurations\\personconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|solutionrelative:enitity\\configurations\\personconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|c:\\users\\user\\desktop\\webapiproject\\enitity\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|solutionrelative:enitity\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|c:\\users\\user\\desktop\\webapiproject\\enitity\\configurations\\paymenttypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|solutionrelative:enitity\\configurations\\paymenttypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|c:\\users\\user\\desktop\\webapiproject\\enitity\\configurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|solutionrelative:enitity\\configurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|c:\\users\\user\\desktop\\webapiproject\\enitity\\configurations\\categoryconfiguaration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|solutionrelative:enitity\\configurations\\categoryconfiguaration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|c:\\users\\user\\desktop\\webapiproject\\enitity\\entites\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|solutionrelative:enitity\\entites\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|c:\\users\\user\\desktop\\webapiproject\\enitity\\entites\\persontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|solutionrelative:enitity\\entites\\persontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|c:\\users\\user\\desktop\\webapiproject\\enitity\\entites\\paymenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|solutionrelative:enitity\\entites\\paymenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|c:\\users\\user\\desktop\\webapiproject\\enitity\\entites\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|solutionrelative:enitity\\entites\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|c:\\users\\user\\desktop\\webapiproject\\enitity\\entites\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|solutionrelative:enitity\\entites\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|c:\\users\\user\\desktop\\webapiproject\\enitity\\entites\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF7B051-B39B-4171-8FF5-788CD6159B5D}|Enitity\\SalesManagementSystem.DATA.csproj|solutionrelative:enitity\\entites\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 23,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderItemConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WebAPIProject\\Enitity\\Configurations\\OrderItemConfiguration.cs",
+              "RelativeDocumentMoniker": "Enitity\\Configurations\\OrderItemConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WebAPIProject\\Enitity\\Configurations\\OrderItemConfiguration.cs",
+              "RelativeToolTip": "Enitity\\Configurations\\OrderItemConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:50:11.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderStatusConfiguartion.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WebAPIProject\\Enitity\\Configurations\\OrderStatusConfiguartion.cs",
+              "RelativeDocumentMoniker": "Enitity\\Configurations\\OrderStatusConfiguartion.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WebAPIProject\\Enitity\\Configurations\\OrderStatusConfiguartion.cs*",
+              "RelativeToolTip": "Enitity\\Configurations\\OrderStatusConfiguartion.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:54:56.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WebAPIProject\\Enitity\\Entites\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Enitity\\Entites\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WebAPIProject\\Enitity\\Entites\\OrderStatus.cs",
+              "RelativeToolTip": "Enitity\\Entites\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T14:02:05.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WebAPIProject\\Enitity\\Entites\\Order.cs",
+              "RelativeDocumentMoniker": "Enitity\\Entites\\Order.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WebAPIProject\\Enitity\\Entites\\Order.cs",
+              "RelativeToolTip": "Enitity\\Entites\\Order.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwB8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T13:40:22.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SalesManagmentSystemDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WebAPIProject\\Enitity\\SalesManagmentSystemDbContext.cs",
+              "RelativeDocumentMoniker": "Enitity\\SalesManagmentSystemDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WebAPIProject\\Enitity\\SalesManagmentSystemDbContext.cs*",
+              "RelativeToolTip": "Enitity\\SalesManagmentSystemDbContext.cs*",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwBMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:27:20.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Rating.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WebAPIProject\\Enitity\\Entites\\Rating.cs",
+              "RelativeDocumentMoniker": "Enitity\\Entites\\Rating.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WebAPIProject\\Enitity\\Entites\\Rating.cs",
+              "RelativeToolTip": "Enitity\\Entites\\Rating.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T13:59:42.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WebAPIProject\\Enitity\\Entites\\Role.cs",
+              "RelativeDocumentMoniker": "Enitity\\Entites\\Role.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WebAPIProject\\Enitity\\Entites\\Role.cs",
+              "RelativeToolTip": "Enitity\\Entites\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T12:45:05.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WebAPIProject\\Enitity\\Entites\\User.cs",
+              "RelativeDocumentMoniker": "Enitity\\Entites\\User.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WebAPIProject\\Enitity\\Entites\\User.cs",
+              "RelativeToolTip": "Enitity\\Entites\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T12:44:57.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WebAPIProject\\Enitity\\Entites\\Product.cs",
+              "RelativeDocumentMoniker": "Enitity\\Entites\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WebAPIProject\\Enitity\\Entites\\Product.cs",
+              "RelativeToolTip": "Enitity\\Entites\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T13:31:29.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductConfiguation.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WebAPIProject\\Enitity\\Configurations\\ProductConfiguation.cs",
+              "RelativeDocumentMoniker": "Enitity\\Configurations\\ProductConfiguation.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WebAPIProject\\Enitity\\Configurations\\ProductConfiguation.cs",
+              "RelativeToolTip": "Enitity\\Configurations\\ProductConfiguation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:58:21.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WebAPIProject\\WebAPIProject\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPIProject\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WebAPIProject\\WebAPIProject\\Program.cs",
+              "RelativeToolTip": "WebAPIProject\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvxsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T15:43:08.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WebAPIProject\\WebAPIProject\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebAPIProject\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WebAPIProject\\WebAPIProject\\WeatherForecast.cs",
+              "RelativeToolTip": "WebAPIProject\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T15:27:44.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WebAPIProject\\Enitity\\Infastructures\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Enitity\\Infastructures\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WebAPIProject\\Enitity\\Infastructures\\BaseRepository.cs",
+              "RelativeToolTip": "Enitity\\Infastructures\\BaseRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T15:04:00.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SalesManagementSystem.DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WebAPIProject\\Database\\SalesManagementSystem.DAL.csproj",
+              "RelativeDocumentMoniker": "Database\\SalesManagementSystem.DAL.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WebAPIProject\\Database\\SalesManagementSystem.DAL.csproj",
+              "RelativeToolTip": "Database\\SalesManagementSystem.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-05T15:45:03.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IRatingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WebAPIProject\\Database\\Repositories\\IRatingRepository.cs",
+              "RelativeDocumentMoniker": "Database\\Repositories\\IRatingRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WebAPIProject\\Database\\Repositories\\IRatingRepository.cs",
+              "RelativeToolTip": "Database\\Repositories\\IRatingRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T16:25:14.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RatingController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WebAPIProject\\WebAPIProject\\Controllers\\RatingController.cs",
+              "RelativeDocumentMoniker": "WebAPIProject\\Controllers\\RatingController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WebAPIProject\\WebAPIProject\\Controllers\\RatingController.cs",
+              "RelativeToolTip": "WebAPIProject\\Controllers\\RatingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T15:28:20.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WebAPIProject\\Enitity\\Infastructures\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "Enitity\\Infastructures\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WebAPIProject\\Enitity\\Infastructures\\IBaseRepository.cs",
+              "RelativeToolTip": "Enitity\\Infastructures\\IBaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T15:04:20.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateRatingModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WebAPIProject\\Service\\DTOs\\CreateRatingModel.cs",
+              "RelativeDocumentMoniker": "Service\\DTOs\\CreateRatingModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WebAPIProject\\Service\\DTOs\\CreateRatingModel.cs",
+              "RelativeToolTip": "Service\\DTOs\\CreateRatingModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T15:51:46.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IRatingService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WebAPIProject\\Service\\Interfaces\\IRatingService.cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\IRatingService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WebAPIProject\\Service\\Interfaces\\IRatingService.cs",
+              "RelativeToolTip": "Service\\Interfaces\\IRatingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T15:50:21.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RatingService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WebAPIProject\\Service\\RatingService.cs",
+              "RelativeDocumentMoniker": "Service\\RatingService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WebAPIProject\\Service\\RatingService.cs",
+              "RelativeToolTip": "Service\\RatingService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwDkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T15:49:11.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WebAPIProject\\WebAPIProject\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPIProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WebAPIProject\\WebAPIProject\\appsettings.json",
+              "RelativeToolTip": "WebAPIProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-05T16:29:27.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UpdateRatingModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WebAPIProject\\Service\\DTOs\\UpdateRatingModel.cs",
+              "RelativeDocumentMoniker": "Service\\DTOs\\UpdateRatingModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WebAPIProject\\Service\\DTOs\\UpdateRatingModel.cs",
+              "RelativeToolTip": "Service\\DTOs\\UpdateRatingModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T15:52:12.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SalesManagementSystem.SERVICE.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WebAPIProject\\Service\\SalesManagementSystem.SERVICE.csproj",
+              "RelativeDocumentMoniker": "Service\\SalesManagementSystem.SERVICE.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WebAPIProject\\Service\\SalesManagementSystem.SERVICE.csproj",
+              "RelativeToolTip": "Service\\SalesManagementSystem.SERVICE.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-05T15:48:24.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SalesManagementSystem.DATA.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WebAPIProject\\Enitity\\SalesManagementSystem.DATA.csproj",
+              "RelativeDocumentMoniker": "Enitity\\SalesManagementSystem.DATA.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WebAPIProject\\Enitity\\SalesManagementSystem.DATA.csproj",
+              "RelativeToolTip": "Enitity\\SalesManagementSystem.DATA.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-27T13:17:59.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WebAPIProject\\WebAPIProject\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebAPIProject\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WebAPIProject\\WebAPIProject\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebAPIProject\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T15:27:55.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WebAPIProject.http",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WebAPIProject\\WebAPIProject\\WebAPIProject.http",
+              "RelativeDocumentMoniker": "WebAPIProject\\WebAPIProject.http",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WebAPIProject\\WebAPIProject\\WebAPIProject.http",
+              "RelativeToolTip": "WebAPIProject\\WebAPIProject.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-05T15:27:41.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RatingConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WebAPIProject\\Enitity\\Configurations\\RatingConfiguration.cs",
+              "RelativeDocumentMoniker": "Enitity\\Configurations\\RatingConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WebAPIProject\\Enitity\\Configurations\\RatingConfiguration.cs",
+              "RelativeToolTip": "Enitity\\Configurations\\RatingConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T15:02:11.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SalesManagementSystem.API.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WebAPIProject\\WebAPIProject\\SalesManagementSystem.API.csproj",
+              "RelativeDocumentMoniker": "WebAPIProject\\SalesManagementSystem.API.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WebAPIProject\\WebAPIProject\\SalesManagementSystem.API.csproj",
+              "RelativeToolTip": "WebAPIProject\\SalesManagementSystem.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-27T13:10:15.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PaymentTypeConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WebAPIProject\\Enitity\\Configurations\\PaymentTypeConfiguration.cs",
+              "RelativeDocumentMoniker": "Enitity\\Configurations\\PaymentTypeConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WebAPIProject\\Enitity\\Configurations\\PaymentTypeConfiguration.cs",
+              "RelativeToolTip": "Enitity\\Configurations\\PaymentTypeConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:56:02.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PersonConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WebAPIProject\\Enitity\\Configurations\\PersonConfiguration.cs",
+              "RelativeDocumentMoniker": "Enitity\\Configurations\\PersonConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WebAPIProject\\Enitity\\Configurations\\PersonConfiguration.cs",
+              "RelativeToolTip": "Enitity\\Configurations\\PersonConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:57:04.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WebAPIProject\\Enitity\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "Enitity\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WebAPIProject\\Enitity\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "Enitity\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T13:23:23.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OrderConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WebAPIProject\\Enitity\\Configurations\\OrderConfiguration.cs",
+              "RelativeDocumentMoniker": "Enitity\\Configurations\\OrderConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WebAPIProject\\Enitity\\Configurations\\OrderConfiguration.cs",
+              "RelativeToolTip": "Enitity\\Configurations\\OrderConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:45:19.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CategoryConfiguaration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WebAPIProject\\Enitity\\Configurations\\CategoryConfiguaration.cs",
+              "RelativeDocumentMoniker": "Enitity\\Configurations\\CategoryConfiguaration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WebAPIProject\\Enitity\\Configurations\\CategoryConfiguaration.cs",
+              "RelativeToolTip": "Enitity\\Configurations\\CategoryConfiguaration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:43:17.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WebAPIProject\\Enitity\\Entites\\Person.cs",
+              "RelativeDocumentMoniker": "Enitity\\Entites\\Person.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WebAPIProject\\Enitity\\Entites\\Person.cs",
+              "RelativeToolTip": "Enitity\\Entites\\Person.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvyEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T13:20:27.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PersonType.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WebAPIProject\\Enitity\\Entites\\PersonType.cs",
+              "RelativeDocumentMoniker": "Enitity\\Entites\\PersonType.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WebAPIProject\\Enitity\\Entites\\PersonType.cs",
+              "RelativeToolTip": "Enitity\\Entites\\PersonType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T12:46:20.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PaymentType.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WebAPIProject\\Enitity\\Entites\\PaymentType.cs",
+              "RelativeDocumentMoniker": "Enitity\\Entites\\PaymentType.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WebAPIProject\\Enitity\\Entites\\PaymentType.cs",
+              "RelativeToolTip": "Enitity\\Entites\\PaymentType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T13:53:44.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WebAPIProject\\Enitity\\Entites\\Category.cs",
+              "RelativeDocumentMoniker": "Enitity\\Entites\\Category.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WebAPIProject\\Enitity\\Entites\\Category.cs",
+              "RelativeToolTip": "Enitity\\Entites\\Category.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T13:57:33.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Coupon.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WebAPIProject\\Enitity\\Entites\\Coupon.cs",
+              "RelativeDocumentMoniker": "Enitity\\Entites\\Coupon.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WebAPIProject\\Enitity\\Entites\\Coupon.cs",
+              "RelativeToolTip": "Enitity\\Entites\\Coupon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T18:22:03.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WebAPIProject\\Enitity\\Entites\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Enitity\\Entites\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WebAPIProject\\Enitity\\Entites\\OrderItem.cs",
+              "RelativeToolTip": "Enitity\\Entites\\OrderItem.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T13:49:51.057Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

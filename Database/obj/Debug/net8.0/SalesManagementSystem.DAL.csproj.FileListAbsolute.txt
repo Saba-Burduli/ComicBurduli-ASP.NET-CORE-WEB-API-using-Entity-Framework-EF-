@@ -1,0 +1,51 @@
+C:/Users/User/Desktop/WebAPIProject/Database/bin/Debug/net8.0/SalesManagementSystem.DAL.deps.json
+C:/Users/User/Desktop/WebAPIProject/Database/bin/Debug/net8.0/SalesManagementSystem.DAL.dll
+C:/Users/User/Desktop/WebAPIProject/Database/bin/Debug/net8.0/SalesManagementSystem.DAL.pdb
+C:/Users/User/Desktop/WebAPIProject/Database/obj/Debug/net8.0/SalesManagementSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/Desktop/WebAPIProject/Database/obj/Debug/net8.0/SalesManagementSystem.DAL.AssemblyInfoInputs.cache
+C:/Users/User/Desktop/WebAPIProject/Database/obj/Debug/net8.0/SalesManagementSystem.DAL.AssemblyInfo.cs
+C:/Users/User/Desktop/WebAPIProject/Database/obj/Debug/net8.0/SalesManagementSystem.DAL.csproj.CoreCompileInputs.cache
+C:/Users/User/Desktop/WebAPIProject/Database/obj/Debug/net8.0/SalesManagementSystem.DAL.dll
+C:/Users/User/Desktop/WebAPIProject/Database/obj/Debug/net8.0/refint/SalesManagementSystem.DAL.dll
+C:/Users/User/Desktop/WebAPIProject/Database/obj/Debug/net8.0/SalesManagementSystem.DAL.pdb
+C:/Users/User/Desktop/WebAPIProject/Database/obj/Debug/net8.0/ref/SalesManagementSystem.DAL.dll
+C:/Users/User/Desktop/WebAPIProject/Database/bin/Debug/net8.0/SalesManagementSystem.DAL.runtimeconfig.json
+C:/Users/User/Desktop/WebAPIProject/Database/bin/Debug/net8.0/SalesManagementSystem.DATA.dll
+C:/Users/User/Desktop/WebAPIProject/Database/bin/Debug/net8.0/SalesManagementSystem.DATA.pdb
+C:/Users/User/Desktop/WebAPIProject/Database/obj/Debug/net8.0/SalesManagementSystem.DAL.csproj.AssemblyReference.cache
+C:/Users/User/Desktop/WebAPIProject/Database/obj/Debug/net8.0/SalesMan.F700CF67.Up2Date
+C:/Users/User/Desktop/WebAPIProject/Database/obj/Debug/net8.0/SalesManagementSystem.DAL.genruntimeconfig.cache
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/Database/bin/Debug/net8.0/SalesManagementSystem.DAL.deps.json
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/Database/bin/Debug/net8.0/SalesManagementSystem.DAL.runtimeconfig.json
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/Database/bin/Debug/net8.0/SalesManagementSystem.DAL.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/Database/bin/Debug/net8.0/SalesManagementSystem.DAL.pdb
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/Database/bin/Debug/net8.0/SalesManagementSystem.DATA.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/Database/bin/Debug/net8.0/SalesManagementSystem.DATA.pdb
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/Database/obj/Debug/net8.0/SalesManagementSystem.DAL.csproj.AssemblyReference.cache
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/Database/obj/Debug/net8.0/SalesManagementSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/Database/obj/Debug/net8.0/SalesManagementSystem.DAL.AssemblyInfoInputs.cache
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/Database/obj/Debug/net8.0/SalesManagementSystem.DAL.AssemblyInfo.cs
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/Database/obj/Debug/net8.0/SalesManagementSystem.DAL.csproj.CoreCompileInputs.cache
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/Database/obj/Debug/net8.0/SalesMan.F700CF67.Up2Date
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/Database/obj/Debug/net8.0/SalesManagementSystem.DAL.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/Database/obj/Debug/net8.0/refint/SalesManagementSystem.DAL.dll
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/Database/obj/Debug/net8.0/SalesManagementSystem.DAL.pdb
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/Database/obj/Debug/net8.0/SalesManagementSystem.DAL.genruntimeconfig.cache
+C:/Users/admin/Downloads/WebAPIProject (3)/WebAPIProject/Database/obj/Debug/net8.0/ref/SalesManagementSystem.DAL.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/Database/bin/Debug/net8.0/SalesManagementSystem.DAL.deps.json
+/Users/gstore/Desktop/Updated _ WebAPIProject/Database/bin/Debug/net8.0/SalesManagementSystem.DAL.runtimeconfig.json
+/Users/gstore/Desktop/Updated _ WebAPIProject/Database/bin/Debug/net8.0/SalesManagementSystem.DAL.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/Database/bin/Debug/net8.0/SalesManagementSystem.DAL.pdb
+/Users/gstore/Desktop/Updated _ WebAPIProject/Database/bin/Debug/net8.0/SalesManagementSystem.DATA.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/Database/bin/Debug/net8.0/SalesManagementSystem.DATA.pdb
+/Users/gstore/Desktop/Updated _ WebAPIProject/Database/obj/Debug/net8.0/SalesManagementSystem.DAL.csproj.AssemblyReference.cache
+/Users/gstore/Desktop/Updated _ WebAPIProject/Database/obj/Debug/net8.0/SalesManagementSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gstore/Desktop/Updated _ WebAPIProject/Database/obj/Debug/net8.0/SalesManagementSystem.DAL.AssemblyInfoInputs.cache
+/Users/gstore/Desktop/Updated _ WebAPIProject/Database/obj/Debug/net8.0/SalesManagementSystem.DAL.AssemblyInfo.cs
+/Users/gstore/Desktop/Updated _ WebAPIProject/Database/obj/Debug/net8.0/SalesManagementSystem.DAL.csproj.CoreCompileInputs.cache
+/Users/gstore/Desktop/Updated _ WebAPIProject/Database/obj/Debug/net8.0/SalesMan.F700CF67.Up2Date
+/Users/gstore/Desktop/Updated _ WebAPIProject/Database/obj/Debug/net8.0/SalesManagementSystem.DAL.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/Database/obj/Debug/net8.0/refint/SalesManagementSystem.DAL.dll
+/Users/gstore/Desktop/Updated _ WebAPIProject/Database/obj/Debug/net8.0/SalesManagementSystem.DAL.pdb
+/Users/gstore/Desktop/Updated _ WebAPIProject/Database/obj/Debug/net8.0/SalesManagementSystem.DAL.genruntimeconfig.cache
+/Users/gstore/Desktop/Updated _ WebAPIProject/Database/obj/Debug/net8.0/ref/SalesManagementSystem.DAL.dll
