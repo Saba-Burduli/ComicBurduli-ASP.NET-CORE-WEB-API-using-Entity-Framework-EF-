@@ -41,6 +41,8 @@ namespace SalesManagementSystem.DATA.Entites
         public virtual ICollection<Order>? Orders { get; set; }
 
         //Person => PersonType
+        [ForeignKey("PersonType")] 
+        public int PersonTypeID { get; set; }
         public PersonType? PersonType { get; set; } 
         
         //Person => User ; One to One (Person) => (User)

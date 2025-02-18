@@ -30,6 +30,11 @@ public class UserService :IUserService
         throw new NotImplementedException();
     }
 
+    public Task<IEnumerable<UserModel>> GetAllUsersWithPersonAsync()
+    {
+        throw new NotImplementedException();
+    }
+
     public async Task<UserModel?> GetUserByIdAsync(int id)
     {
         var user = await _userRepository.GetByIdAsync(id);
@@ -49,7 +54,9 @@ public class UserService :IUserService
 
     }
 
-    public Task<ResponseModel> RegisterUserAsync(ResponseModel userModel) //ამ ResponseModel რომ ვცვლი RegisterUserModel ზე არმუშაობს და შავდება 
+   
+
+    public Task<ResponseModel> UpdateUserAsync(int userId, UpdateUserModel userModel)
     {
         throw new NotImplementedException();
     }
@@ -61,6 +68,16 @@ public class UserService :IUserService
         {
             return new ResponseModel { Success = false, Massage = "User already exists" };
         }
+
+        Person newPerson = new Person()
+        {
+            FirstName = userModel.Person.FirstName,
+            LastName = userModel.Person.LastName,
+            Address = userModel.Person.Addres,
+            Phone = userModel.Person.Phone,
+            PersonTypeID = 1
+
+        };
     
         var newUser = new User
         {
@@ -68,6 +85,8 @@ public class UserService :IUserService
             Email = userModel.Email,
             PasswordHash = userModel.Password,
         };
+        await _userRepository.AddAsync(newUser);    
+        
         return new ResponseModel{Success = true, Massage = "User created successfully!"};   
     }
 

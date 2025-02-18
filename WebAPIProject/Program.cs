@@ -13,13 +13,21 @@ builder.Services.AddDbContext<SalesManagmentSystemDbContext>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("SalesManagementSystemDbConnection"));
 });
+//add Interface Repositories to Class  Repositories
+builder.Services.AddScoped<IUserRepository, UserRepository>();
+builder.Services.AddScoped<IPasswordHasher, PasswordHasher>();  
+builder.Services.AddScoped<IRatingRepository, RatingRepository>();    
+
+//add services for Services
+builder.Services.AddScoped<IUserService, UserService>();
+builder.Services.AddScoped<IRatingService, RatingService>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-
+//add services for Repositories
 builder.Services.AddScoped<IRatingRepository, RatingRepository>();
 builder.Services.AddScoped<IRatingService, RatingService>();
 
