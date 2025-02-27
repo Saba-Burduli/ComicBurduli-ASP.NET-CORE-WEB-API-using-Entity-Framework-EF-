@@ -32,7 +32,7 @@ Following REST principles ensures that the system can be consumed by any client 
 
 
 Steps to Improve and Finalize My Project
-1. Organize Code
+**1. Organize Code**
 project follows a clean architecture (e.g., Repository Pattern or Service Layer Pattern).
 
 Separate concerns like:
@@ -45,7 +45,7 @@ Repositories: Database operations.
 
 Models/Entities: Database schema.
 
-Example structure:
+**Example structure:**
 
 SalesManagementAPI/
 ├── Controllers/
@@ -57,7 +57,7 @@ SalesManagementAPI/
 ├── Program.cs
 └── README.md
 
-2. Entity Framework Migrations
+**2. Entity Framework Migrations**
 migrations are up-to-date and applied to the database:
 
 
@@ -65,7 +65,7 @@ dotnet ef migrations add <MigrationName>
 dotnet ef database update
 Verify that your database schema matches your entities.
 
-3. API Documentation
+**3. API Documentation**
 Use Swagger to document your API endpoints.
 
 Add Swagger to your project:
