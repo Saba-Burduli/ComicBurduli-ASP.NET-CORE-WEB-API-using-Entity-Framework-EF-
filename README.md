@@ -1,6 +1,19 @@
 Here’s a quick breakdown of what I’ve done:
-ASP.NET Web API in the Sales Management System
-The ASP.NET Web API is the backbone of the Sales Management System, responsible for handling communication between the client-side application and the database. It enables the system to expose RESTful endpoints that allow users to perform various operations such as managing sales, customers, products, and transactions.
+
+# Sales Management System
+
+## Description
+This is a **Sales Management System** built using **ASP.NET Web API** and **Entity Framework**. It provides RESTful APIs to manage sales, products, and customers. The system is designed to streamline sales operations and provide a centralized platform for managing sales data.
+
+
+## Features 
+- **CRUD Operations**: Create, Read, Update, and Delete sales, products, and customers.
+- **RESTful API**: Fully functional API endpoints for managing data.
+- **Database Integration**: Uses **MSSQL** for data storage.
+- **Entity Framework**: ORM for database operations and migrations.
+- **Swagger Documentation**: Interactive API documentation.
+
+
 
 Key Roles of ASP.NET Web API in the Project:
 Handling HTTP Requests:
@@ -74,3 +87,23 @@ builder.Services.AddSwaggerGen();
 app.UseSwagger();
 app.UseSwaggerUI();
 Access Swagger UI at /swagger when running your API.
+
+
+## Technologies Used
+- **Backend**: ASP.NET Web API
+- **Database**: MSSQL
+- **ORM**: Entity Framework Core
+- **Tools**: Visual Studio, Swagger, Git
+- **Languages**: C#, SQL
+
+---
+
+## Setup Instructions
+Follow these steps to set up and run the project locally:
+
+### Prerequisites
+- [.NET SDK](https://dotnet.microsoft.com/download) (version 6.0 or higher)
+- [Visual Studio](https://visualstudio.microsoft.com/) or [Visual Studio Code](https://code.visualstudio.com/)
+- [MSSQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+
+
