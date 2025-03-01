@@ -5,6 +5,7 @@ Here’s a quick breakdown of what I’ve done:
 ## Description
 This is a **Sales Management System** built using **ASP.NET Web API** and **Entity Framework**. It provides RESTful APIs to manage sales, products, and customers. The system is designed to streamline sales operations and provide a centralized platform for managing sales data.
 
+![Screenshot 2025-01-29 203132](https://github.com/user-attachments/assets/6b91b09c-910f-42ea-8f1f-326398cced56)
 
 ## Features 
 - **CRUD Operations**: Create, Read, Update, and Delete sales, products, and customers.
