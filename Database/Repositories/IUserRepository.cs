@@ -7,7 +7,8 @@ namespace SalesManagementSystem.DAL.Repositories;
 
 public interface IUserRepository : IBaseRepository<User>
 {
-Task<User> GetUserByEmailAsync(string email);  
+Task<User> GetUserByEmailAsync(string email);
+    Task GetUserWithPersonByIdAsync(int id);
 }
 
 public class UserRepository : BaseRepository<User>, IUserRepository
@@ -27,4 +28,26 @@ public class UserRepository : BaseRepository<User>, IUserRepository
         return await _context.Users.FirstOrDefaultAsync(u=>u.Email == email);
         
     }
+
+    public async Task<User> GetUserWithPersonByIdAsync(int id)
+    {
+        return await _context.Users
+            .Include(u => u.Person)
+            .FirstOrDefaultAsync(u => u.UserId == id);
+
+    }
+
+
+    //add this +++
+    Task<User> IUserRepository.GetUserByEmailAsync(string email)
+    {
+        throw new NotImplementedException();
+    }
+    //add this +++
+    Task IUserRepository.GetUserWithPersonByIdAsync(int id)
+    {
+        return GetUserWithPersonByIdAsync(id);
+    }
 }
+
+

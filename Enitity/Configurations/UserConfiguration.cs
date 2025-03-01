@@ -28,7 +28,7 @@ namespace SalesManagementSystem.DATA.Configurations
                 .WithMany()
                 .HasForeignKey("UserId")
                 .OnDelete(DeleteBehavior.Cascade));
-
+            
 
         }
 

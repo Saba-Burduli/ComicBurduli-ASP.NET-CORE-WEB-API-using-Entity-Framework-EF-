@@ -16,7 +16,11 @@ builder.Services.AddDbContext<SalesManagmentSystemDbContext>(options =>
 //add Interface Repositories to Class  Repositories
 builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddScoped<IPasswordHasher, PasswordHasher>();  
-builder.Services.AddScoped<IRatingRepository, RatingRepository>();    
+builder.Services.AddScoped<IRatingRepository, RatingRepository>();
+
+//imgonna add in there RoleRepository ++++ UP
+
+
 
 //add services for Services
 builder.Services.AddScoped<IUserService, UserService>();

@@ -1,4 +1,5 @@
 
+using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 using SalesManagementSystem.SERVICE.DTOs.UserModels;
 using SalesManagementSystem.SERVICE.Interfaces;
@@ -37,6 +38,46 @@ namespace SalesManagementSystem.API.Controllers
            }
            return BadRequest();
        }
-       
+
+        [HttpGet("GetUserWithPersonBtId/{id}")]
+        public async Task<UserModel> GetUserWithPersonByIdAsync(int id)
+        {
+            return await _userService.GetUserWithPersonByIdAsync(id);
+        }
+
+        [HttpPut("Login")]
+        public async Task<IActionResult> LoginUserAsync(LoginModel model)
+        {
+            if (ModelState.IsValid)
+            {
+                var result = await _userService.LoginUserAsync(model);
+                if (!result.Success)
+                {
+                    return BadRequest(result.Massage == "Bad Request !");
+
+                }
+                return Ok(result);
+            }
+            return BadRequest();
+        }
+
+
+        [HttpPut("Update")]
+        public async Task<IActionResult> UpdateUserAsync([FromQuery] int userId, [FromBody] UpdateUserModel model)
+        {
+            if (ModelState.IsValid)
+            {
+                var result = await _userService.UpdateUserAsync(userId,model);
+                if (!result.Success)
+                {
+                    return BadRequest(result.Massage);
+                }
+                return Ok(result);
+            }
+            return BadRequest();
+        }
+
+
+
     }
 }

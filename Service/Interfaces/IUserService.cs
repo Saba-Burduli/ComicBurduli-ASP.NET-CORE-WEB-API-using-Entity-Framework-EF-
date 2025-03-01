@@ -5,10 +5,12 @@ namespace SalesManagementSystem.SERVICE.Interfaces;
 
 public interface IUserService
 {
+    
     Task<IEnumerable<UserModel>> GetAllUsersAsync();
     
     Task<IEnumerable<UserModel>> GetAllUsersWithPersonAsync();
-    Task<UserModel?> GetUserByIdAsync(int id); 
+    Task<UserModel?> GetUserByIdAsync(int id);
+    Task<UserModel?> GetUserWithPersonByIdAsync(int id);
     Task<ResponseModel> RegisterUserAsync(RegisterUserModel userModel);
     Task<ResponseModel> UpdateUserAsync(int userId,UpdateUserModel userModel);    
     Task<ResponseModel> DeleteUserAsync(int id);
