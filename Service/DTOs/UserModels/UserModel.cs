@@ -10,6 +10,7 @@ namespace SalesManagementSystem.SERVICE.DTOs.UserModels
 {
 public class UserModel
 {
+        //UserModel
     public int UserId { get; set; }
     public string? UserName { get; set; }
     public string? PasswordHash { get; set; }

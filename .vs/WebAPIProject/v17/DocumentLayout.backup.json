@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Updated _ WebAPIProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC9038EA-9F02-439B-BCCB-553834F82B88}|WebAPIProject\\SalesManagementSystem.API.csproj|c:\\users\\user\\desktop\\updated _ webapiproject\\webapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC9038EA-9F02-439B-BCCB-553834F82B88}|WebAPIProject\\SalesManagementSystem.API.csproj|solutionrelative:webapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EC9038EA-9F02-439B-BCCB-553834F82B88}|WebAPIProject\\SalesManagementSystem.API.csproj|c:\\users\\user\\desktop\\updated _ webapiproject\\webapiproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC9038EA-9F02-439B-BCCB-553834F82B88}|WebAPIProject\\SalesManagementSystem.API.csproj|solutionrelative:webapiproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC9038EA-9F02-439B-BCCB-553834F82B88}|WebAPIProject\\SalesManagementSystem.API.csproj|c:\\users\\user\\desktop\\updated _ webapiproject\\webapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC9038EA-9F02-439B-BCCB-553834F82B88}|WebAPIProject\\SalesManagementSystem.API.csproj|solutionrelative:webapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{826E5A8E-3588-47A8-8105-E2EE14BA75D9}|Service\\SalesManagementSystem.SERVICE.csproj|c:\\users\\user\\desktop\\updated _ webapiproject\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{826E5A8E-3588-47A8-8105-E2EE14BA75D9}|Service\\SalesManagementSystem.SERVICE.csproj|c:\\users\\user\\desktop\\updated _ webapiproject\\service\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{826E5A8E-3588-47A8-8105-E2EE14BA75D9}|Service\\SalesManagementSystem.SERVICE.csproj|solutionrelative:service\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Updated _ WebAPIProject\\Database\\Repositories\\IRoleRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Database\\Repositories\\IRoleRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D23E2C7-6A60-4D0E-88C1-5A0977DAF990}|Database\\SalesManagementSystem.DAL.csproj|c:\\users\\user\\desktop\\updated _ webapiproject\\database\\repositories\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -169,6 +165,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{EC9038EA-9F02-439B-BCCB-553834F82B88}|WebAPIProject\\SalesManagementSystem.API.csproj|c:\\users\\user\\desktop\\updated _ webapiproject\\webapiproject\\salesmanagementsystem.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{EC9038EA-9F02-439B-BCCB-553834F82B88}|WebAPIProject\\SalesManagementSystem.API.csproj|solutionrelative:webapiproject\\salesmanagementsystem.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D23E2C7-6A60-4D0E-88C1-5A0977DAF990}|Database\\SalesManagementSystem.DAL.csproj|c:\\users\\user\\desktop\\updated _ webapiproject\\database\\repositories\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D23E2C7-6A60-4D0E-88C1-5A0977DAF990}|Database\\SalesManagementSystem.DAL.csproj|solutionrelative:database\\repositories\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -178,7 +178,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 25,
+          "SelectedChildIndex": 24,
           "Children": [
             {
               "$type": "Bookmark",
@@ -258,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "LoginModel.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Updated _ WebAPIProject\\Service\\DTOs\\UserModels\\LoginModel.cs",
               "RelativeDocumentMoniker": "Service\\DTOs\\UserModels\\LoginModel.cs",
@@ -278,8 +278,7 @@
               "RelativeToolTip": "Service\\UserService.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAgwJ8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T15:33:39.293Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T15:33:39.293Z"
             },
             {
               "$type": "Document",
@@ -291,12 +290,11 @@
               "RelativeToolTip": "Service\\Interfaces\\IUserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T15:09:19.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T15:09:19.901Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Updated _ WebAPIProject\\Database\\Repositories\\IUserRepository.cs",
               "RelativeDocumentMoniker": "Database\\Repositories\\IUserRepository.cs",
@@ -308,7 +306,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 41,
               "Title": "IRoleRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Updated _ WebAPIProject\\Database\\Repositories\\IRoleRepository.cs",
               "RelativeDocumentMoniker": "Database\\Repositories\\IRoleRepository.cs",
@@ -316,25 +314,24 @@
               "RelativeToolTip": "Database\\Repositories\\IRoleRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T15:26:01.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T15:26:01.134Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Updated _ WebAPIProject\\WebAPIProject\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "WebAPIProject\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Updated _ WebAPIProject\\WebAPIProject\\Controllers\\UserController.cs",
               "RelativeToolTip": "WebAPIProject\\Controllers\\UserController.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAIwE8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T15:05:36.057Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Updated _ WebAPIProject\\WebAPIProject\\Program.cs",
               "RelativeDocumentMoniker": "WebAPIProject\\Program.cs",
@@ -347,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "UserModel.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Updated _ WebAPIProject\\Service\\DTOs\\UserModels\\UserModel.cs",
               "RelativeDocumentMoniker": "Service\\DTOs\\UserModels\\UserModel.cs",
@@ -359,7 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "UserConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Updated _ WebAPIProject\\Enitity\\Configurations\\UserConfiguration.cs",
               "RelativeDocumentMoniker": "Enitity\\Configurations\\UserConfiguration.cs",
@@ -370,12 +367,8 @@
               "WhenOpened": "2025-02-19T18:25:18.234Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "IRatingRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Updated _ WebAPIProject\\Database\\Repositories\\IRatingRepository.cs",
               "RelativeDocumentMoniker": "Database\\Repositories\\IRatingRepository.cs",
@@ -387,7 +380,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Updated _ WebAPIProject\\WebAPIProject\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "WebAPIProject\\Controllers\\WeatherForecastController.cs",
@@ -399,7 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "IPasswordHasher.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Updated _ WebAPIProject\\Database\\Repositories\\IPasswordHasher.cs",
               "RelativeDocumentMoniker": "Database\\Repositories\\IPasswordHasher.cs",
@@ -411,7 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Updated _ WebAPIProject\\Enitity\\Entites\\User.cs",
               "RelativeDocumentMoniker": "Enitity\\Entites\\User.cs",
@@ -423,7 +416,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "Role.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Updated _ WebAPIProject\\Enitity\\Entites\\Role.cs",
               "RelativeDocumentMoniker": "Enitity\\Entites\\Role.cs",
@@ -435,7 +428,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "Rating.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Updated _ WebAPIProject\\Enitity\\Entites\\Rating.cs",
               "RelativeDocumentMoniker": "Enitity\\Entites\\Rating.cs",
@@ -447,7 +440,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Updated _ WebAPIProject\\Enitity\\Entites\\Product.cs",
               "RelativeDocumentMoniker": "Enitity\\Entites\\Product.cs",
@@ -459,7 +452,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "PersonType.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Updated _ WebAPIProject\\Enitity\\Entites\\PersonType.cs",
               "RelativeDocumentMoniker": "Enitity\\Entites\\PersonType.cs",
@@ -471,7 +464,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Updated _ WebAPIProject\\Enitity\\Entites\\Person.cs",
               "RelativeDocumentMoniker": "Enitity\\Entites\\Person.cs",
@@ -483,7 +476,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "PaymentType.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Updated _ WebAPIProject\\Enitity\\Entites\\PaymentType.cs",
               "RelativeDocumentMoniker": "Enitity\\Entites\\PaymentType.cs",
@@ -495,7 +488,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "OrderStatus.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Updated _ WebAPIProject\\Enitity\\Entites\\OrderStatus.cs",
               "RelativeDocumentMoniker": "Enitity\\Entites\\OrderStatus.cs",
@@ -507,7 +500,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "OrderItem.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Updated _ WebAPIProject\\Enitity\\Entites\\OrderItem.cs",
               "RelativeDocumentMoniker": "Enitity\\Entites\\OrderItem.cs",
@@ -519,7 +512,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Updated _ WebAPIProject\\Enitity\\Entites\\Order.cs",
               "RelativeDocumentMoniker": "Enitity\\Entites\\Order.cs",
@@ -531,7 +524,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "Coupon.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Updated _ WebAPIProject\\Enitity\\Entites\\Coupon.cs",
               "RelativeDocumentMoniker": "Enitity\\Entites\\Coupon.cs",
@@ -543,7 +536,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 23,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Updated _ WebAPIProject\\Enitity\\Entites\\Category.cs",
               "RelativeDocumentMoniker": "Enitity\\Entites\\Category.cs",
@@ -555,7 +548,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 24,
               "Title": "RoleConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Updated _ WebAPIProject\\Enitity\\Configurations\\RoleConfiguration.cs",
               "RelativeDocumentMoniker": "Enitity\\Configurations\\RoleConfiguration.cs",
@@ -567,7 +560,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 25,
               "Title": "RatingConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Updated _ WebAPIProject\\Enitity\\Configurations\\RatingConfiguration.cs",
               "RelativeDocumentMoniker": "Enitity\\Configurations\\RatingConfiguration.cs",
@@ -579,7 +572,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 26,
               "Title": "ProductConfiguation.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Updated _ WebAPIProject\\Enitity\\Configurations\\ProductConfiguation.cs",
               "RelativeDocumentMoniker": "Enitity\\Configurations\\ProductConfiguation.cs",
@@ -591,7 +584,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 27,
               "Title": "PersonTypeConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Updated _ WebAPIProject\\Enitity\\Configurations\\PersonTypeConfiguration.cs",
               "RelativeDocumentMoniker": "Enitity\\Configurations\\PersonTypeConfiguration.cs",
@@ -603,7 +596,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 28,
               "Title": "PersonConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Updated _ WebAPIProject\\Enitity\\Configurations\\PersonConfiguration.cs",
               "RelativeDocumentMoniker": "Enitity\\Configurations\\PersonConfiguration.cs",
@@ -615,7 +608,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 29,
               "Title": "PaymentTypeConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Updated _ WebAPIProject\\Enitity\\Configurations\\PaymentTypeConfiguration.cs",
               "RelativeDocumentMoniker": "Enitity\\Configurations\\PaymentTypeConfiguration.cs",
@@ -627,7 +620,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 30,
               "Title": "OrderStatusConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Updated _ WebAPIProject\\Enitity\\Configurations\\OrderStatusConfiguration.cs",
               "RelativeDocumentMoniker": "Enitity\\Configurations\\OrderStatusConfiguration.cs",
@@ -639,7 +632,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 31,
               "Title": "OrderItemConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Updated _ WebAPIProject\\Enitity\\Configurations\\OrderItemConfiguration.cs",
               "RelativeDocumentMoniker": "Enitity\\Configurations\\OrderItemConfiguration.cs",
@@ -651,7 +644,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 32,
               "Title": "CategoryConfiguaration.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Updated _ WebAPIProject\\Enitity\\Configurations\\CategoryConfiguaration.cs",
               "RelativeDocumentMoniker": "Enitity\\Configurations\\CategoryConfiguaration.cs",
@@ -663,7 +656,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 34,
               "Title": "RegisterUserModel.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Updated _ WebAPIProject\\Service\\DTOs\\UserModels\\RegisterUserModel.cs",
               "RelativeDocumentMoniker": "Service\\DTOs\\UserModels\\RegisterUserModel.cs",
@@ -675,7 +668,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 35,
               "Title": "ResponseModel.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Updated _ WebAPIProject\\Service\\DTOs\\UserModels\\ResponseModel.cs",
               "RelativeDocumentMoniker": "Service\\DTOs\\UserModels\\ResponseModel.cs",
@@ -687,7 +680,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "UpdateUserModel.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Updated _ WebAPIProject\\Service\\DTOs\\UserModels\\UpdateUserModel.cs",
               "RelativeDocumentMoniker": "Service\\DTOs\\UserModels\\UpdateUserModel.cs",
@@ -699,7 +692,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 33,
               "Title": "PersonModel.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Updated _ WebAPIProject\\Service\\DTOs\\PersonModels\\PersonModel.cs",
               "RelativeDocumentMoniker": "Service\\DTOs\\PersonModels\\PersonModel.cs",
@@ -711,7 +704,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 39,
               "Title": "RatingService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Updated _ WebAPIProject\\Service\\RatingService.cs",
               "RelativeDocumentMoniker": "Service\\RatingService.cs",
@@ -723,7 +716,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 38,
               "Title": "IRatingService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Updated _ WebAPIProject\\Service\\Interfaces\\IRatingService.cs",
               "RelativeDocumentMoniker": "Service\\Interfaces\\IRatingService.cs",
@@ -735,7 +728,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 37,
               "Title": "UpdateRatingModel.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Updated _ WebAPIProject\\Service\\DTOs\\UpdateRatingModel.cs",
               "RelativeDocumentMoniker": "Service\\DTOs\\UpdateRatingModel.cs",
@@ -747,7 +740,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 36,
               "Title": "CreateRatingModel.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Updated _ WebAPIProject\\Service\\DTOs\\CreateRatingModel.cs",
               "RelativeDocumentMoniker": "Service\\DTOs\\CreateRatingModel.cs",
@@ -759,7 +752,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 40,
               "Title": "SalesManagementSystem.API.csproj",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Updated _ WebAPIProject\\WebAPIProject\\SalesManagementSystem.API.csproj",
               "RelativeDocumentMoniker": "WebAPIProject\\SalesManagementSystem.API.csproj",
